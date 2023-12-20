@@ -1,0 +1,3 @@
+go 1.21.3
+
+use ../fa23-proj2-go-bears-1
